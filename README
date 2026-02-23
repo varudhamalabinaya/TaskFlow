@@ -1,0 +1,213 @@
+🚀 TaskFlow Studio
+
+A modern web-based project management application designed to streamline team collaboration, task tracking, and project organization through an intuitive and responsive interface.
+
+Developed during my Web Development Internship at Optimus Technocrates (India) Pvt. Ltd..
+
+📌 Overview
+
+TaskFlow Studio simplifies project and task management by enabling teams to:
+
+Create and manage multiple projects
+
+Assign and track tasks with priority levels
+
+Monitor project progress in real time
+
+Collaborate efficiently through role-based access
+
+Maintain transparency with structured workflows
+
+The application follows modern frontend architecture and integrates seamlessly with backend services using RESTful APIs.
+
+🛠 Tech Stack
+Frontend
+
+React.js
+
+TypeScript
+
+Tailwind CSS
+
+React Router
+
+Lucide React Icons
+
+shadcn-ui components
+
+Backend Integration
+
+RESTful APIs
+
+JWT Authentication
+
+Structured data models
+
+Tools
+
+VS Code
+
+Git
+
+GitHub
+
+Node.js
+
+Vite
+
+✨ Key Features
+🔐 Authentication System
+
+Secure login & registration
+
+Form validation
+
+JWT-based authentication
+
+Protected routes
+
+📊 Dashboard Overview
+
+Project statistics (Total, Completed, In Progress, Blocked, On Hold)
+
+Visual progress indicators
+
+Team member overview
+
+Responsive grid layout
+
+📁 Project Management
+
+Create, delete, and manage projects
+
+Invite team members
+
+Progress tracking
+
+Role-based access
+
+✅ Task Management
+
+Create, edit, delete tasks
+
+Set priority (High, Medium, Low)
+
+Due date tracking
+
+Kanban board view
+
+List view
+
+Drag-and-drop functionality
+
+👥 Collaboration
+
+Workspace invitations
+
+Role-based access control
+
+Member invitation modal
+
+Status updates
+
+📱 Responsive Design
+
+Mobile-friendly UI
+
+Adaptive layout for desktop and tablet
+
+Clean and modern interface
+
+🖥 Application Structure
+src/
+ ├── components/
+ ├── pages/
+ ├── services/
+ ├── context/
+ ├── lib/
+ ├── App.tsx
+ ├── main.tsx
+
+components/ – Reusable UI components
+
+pages/ – Application pages (Dashboard, Projects, Tasks, Profile)
+
+services/ – API integration layer
+
+context/ – State management
+
+lib/ – Utility functions
+
+📷 Screenshots
+
+(Add your screenshots here)
+
+Landing Page
+
+Dashboard
+
+Project Page
+
+Kanban Board
+
+Profile Page
+
+⚙️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/your-username/taskflow-studio.git
+cd taskflow-studio
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+📈 Learning Outcomes
+
+Through this project, I strengthened:
+
+Component-based architecture design
+
+State management using React Hooks
+
+API integration & authentication handling
+
+Debugging complex UI & state issues
+
+Implementing responsive and scalable UI systems
+
+Understanding real-world SDLC workflows
+
+🚧 Challenges Overcome
+
+Adapting to TypeScript in large-scale frontend structure
+
+Managing task states and dynamic UI updates
+
+Handling asynchronous API communication
+
+Debugging complex component interactions
+
+Meeting tight development deadlines
+
+🎯 Future Enhancements
+
+Real-time notifications
+
+Advanced analytics dashboard
+
+File attachments in tasks
+
+Comment system inside tasks
+
+Admin-level reporting tools
+
+Backend optimization for scalability
