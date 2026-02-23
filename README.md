@@ -1,73 +1,185 @@
-# Welcome to your Lovable project
+🚀 TaskFlow Studio
+Modern Web-Based Project Management Application
 
-## Project info
+TaskFlow Studio is a scalable and responsive project management web application designed to streamline team collaboration, task tracking, and workflow management.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Developed during my Web Development Internship at Optimus Technocrates (India) Pvt. Ltd..
 
-## How can I edit this code?
+📌 Project Overview
 
-There are several ways of editing your application.
+TaskFlow Studio enables teams to:
 
-**Use Lovable**
+✔ Create and manage multiple projects
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+✔ Assign and track tasks with priority levels
 
-Changes made via Lovable will be committed automatically to this repo.
+✔ Monitor real-time project progress
 
-**Use your preferred IDE**
+✔ Collaborate through role-based access
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✔ Improve transparency and accountability
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The system follows modern frontend architecture principles and integrates seamlessly with backend services using RESTful APIs.
 
-Follow these steps:
+🛠 Tech Stack
+Frontend
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+React.js
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+TypeScript
 
-# Step 3: Install the necessary dependencies.
-npm i
+Tailwind CSS
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+React Router
+
+Lucide React Icons
+
+shadcn-ui Components
+
+Backend Integration
+
+RESTful APIs
+
+JWT Authentication
+
+Development Tools
+
+VS Code
+
+Git
+
+GitHub
+
+Node.js
+
+Vite
+
+✨ Core Features
+🔐 Authentication System
+
+Secure Login & Registration
+
+Form Validation
+
+JWT-based Authentication
+
+Protected Routes
+
+📊 Dashboard Overview
+
+Real-time Project Statistics
+
+Visual Progress Indicators
+
+Team Member Overview
+
+Responsive Grid Layout
+
+📁 Project Management
+
+Create / Delete Projects
+
+Invite Team Members
+
+Track Project Progress
+
+Role-Based Access Control
+
+✅ Task Management
+
+Create, Edit, Delete Tasks
+
+Priority Levels (High / Medium / Low)
+
+Due Date Tracking
+
+Kanban Board View
+
+List View Mode
+
+Drag-and-Drop Functionality
+
+👥 Collaboration System
+
+Workspace Invitations
+
+Member Management
+
+Status Updates
+
+Modal-Based Interactions
+
+📱 Responsive UI
+
+Mobile-Friendly Design
+
+Desktop Optimized Layout
+
+Clean & Minimal Interface
+
+🖥 Application Architecture
+src/
+ ├── components/
+ ├── pages/
+ ├── services/
+ ├── context/
+ ├── lib/
+ ├── App.tsx
+ ├── main.tsx
+
+components/ → Reusable UI Components
+pages/ → Dashboard, Projects, Tasks, Profile
+services/ → API Integration Layer
+context/ → State Management
+lib/ → Utility Functions
+
+
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/varudhamalabinaya/taskflow-studio.git
+cd taskflow-studio
+2️⃣ Install Dependencies
+npm install
+3️⃣ Run Development Server
 npm run dev
-```
+4️⃣ Build for Production
+npm run build
+📈 Learning Outcomes
 
-**Edit a file directly in GitHub**
+Through this project, I strengthened:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+✔ Component-Based Architecture Design
 
-**Use GitHub Codespaces**
+✔ State Management using React Hooks
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+✔ RESTful API Integration
 
-## What technologies are used for this project?
+✔ Authentication Handling
 
-This project is built with:
+✔ Debugging Complex UI & State Issues
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+✔ Understanding of Software Development Lifecycle
 
-## How can I deploy this project?
+🚧 Challenges Overcome
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Adapting to TypeScript in Large-Scale Applications
 
-## Can I connect a custom domain to my Lovable project?
+Managing Dynamic UI States
 
-Yes, you can!
+Debugging Asynchronous API Calls
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Meeting Tight Development Deadlines
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Ensuring Responsive Cross-Device Compatibility
+
+🎯 Future Enhancements
+
+Real-Time Notifications
+
+Advanced Analytics Dashboard
+
+File Attachments in Tasks
+
+Task Commenting System
+
+Admin Reporting Module
