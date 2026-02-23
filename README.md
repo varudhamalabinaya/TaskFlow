@@ -1,11 +1,11 @@
-🚀 TaskFlow Studio
+###🚀 TaskFlow Studio
 Modern Web-Based Project Management Application
 
 TaskFlow Studio is a scalable and responsive project management web application designed to streamline team collaboration, task tracking, and workflow management.
 
 Developed during my Web Development Internship at Optimus Technocrates (India) Pvt. Ltd..
 
-📌 Project Overview
+###📌 Project Overview
 
 TaskFlow Studio enables teams to:
 
@@ -21,7 +21,7 @@ TaskFlow Studio enables teams to:
 
 The system follows modern frontend architecture principles and integrates seamlessly with backend services using RESTful APIs.
 
-🛠 Tech Stack
+###🛠 Tech Stack
 Frontend
 
 React.js
@@ -54,8 +54,9 @@ Node.js
 
 Vite
 
-✨ Core Features
-🔐 Authentication System
+###✨ Core Features
+
+###🔐 Authentication System
 
 Secure Login & Registration
 
@@ -65,7 +66,7 @@ JWT-based Authentication
 
 Protected Routes
 
-📊 Dashboard Overview
+###📊 Dashboard Overview
 
 Real-time Project Statistics
 
@@ -75,7 +76,7 @@ Team Member Overview
 
 Responsive Grid Layout
 
-📁 Project Management
+###📁 Project Management
 
 Create / Delete Projects
 
@@ -85,7 +86,7 @@ Track Project Progress
 
 Role-Based Access Control
 
-✅ Task Management
+###✅ Task Management
 
 Create, Edit, Delete Tasks
 
@@ -99,7 +100,7 @@ List View Mode
 
 Drag-and-Drop Functionality
 
-👥 Collaboration System
+###👥 Collaboration System
 
 Workspace Invitations
 
@@ -109,7 +110,7 @@ Status Updates
 
 Modal-Based Interactions
 
-📱 Responsive UI
+###📱 Responsive UI
 
 Mobile-Friendly Design
 
@@ -117,7 +118,7 @@ Desktop Optimized Layout
 
 Clean & Minimal Interface
 
-🖥 Application Architecture
+###🖥 Application Architecture
 src/
  ├── components/
  ├── pages/
@@ -134,7 +135,7 @@ context/ → State Management
 lib/ → Utility Functions
 
 
-⚙️ Installation & Setup
+###⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/varudhamalabinaya/taskflow-studio.git
 cd taskflow-studio
@@ -160,7 +161,7 @@ Through this project, I strengthened:
 
 ✔ Understanding of Software Development Lifecycle
 
-🚧 Challenges Overcome
+###🚧 Challenges Overcome
 
 Adapting to TypeScript in Large-Scale Applications
 
@@ -172,7 +173,7 @@ Meeting Tight Development Deadlines
 
 Ensuring Responsive Cross-Device Compatibility
 
-🎯 Future Enhancements
+###🎯 Future Enhancements
 
 Real-Time Notifications
 
